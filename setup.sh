@@ -1,6 +1,6 @@
 #!/bin/bash
 echo 'Copying configurations'
-cp ./configs/* $HOME/
+cp -r ./configs/* $HOME/
 
 echo 'Adding neovim unstable repo'
 sudo add-apt-repository ppa:neovim-ppa/unstable -y
