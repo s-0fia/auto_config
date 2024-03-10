@@ -1,0 +1,4 @@
+/.config/nvim/ ./.config/nvim
+/.bash_aliases .
+/shortcuts.txt .
+/nvim_arg.sh .
